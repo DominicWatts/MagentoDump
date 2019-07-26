@@ -1,6 +1,6 @@
 {
     "name": "dominicwatts/magentodump",
-    "description": "Magento with Symfony VarDumper replacement to Zend_Debug ",
+    "description": "Magento with Symfony VarDumper replacement to Zend_Debug",
     "type": "magento2-module",
     "license": "proprietary",
     "authors": [
