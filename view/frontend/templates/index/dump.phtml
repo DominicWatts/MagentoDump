@@ -1,0 +1,14 @@
+<p>Hello index/dump.phtml</p>
+<?php
+
+Symfony\Component\VarDumper\VarDumper::dump('test');
+
+$block->dump('test');
+
+$block->dump(['arrayone', 'arraytwo']);
+
+$object = ['key' => 'item'];
+
+$block->dump(['array', 1, new Magento\Framework\DataObject($object)]);
+
+?>
