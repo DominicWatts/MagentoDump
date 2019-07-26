@@ -5,7 +5,6 @@ namespace Xigen\MagentoDump\Controller\Index;
 
 class Dump extends \Magento\Framework\App\Action\Action
 {
-
     protected $resultPageFactory;
 
     /**
