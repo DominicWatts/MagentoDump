@@ -3,6 +3,7 @@
     "description": "Magento with Symfony VarDumper replacement to Zend_Debug",
     "type": "magento2-module",
     "license": "proprietary",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "Dominic Xigen",
